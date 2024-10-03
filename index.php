@@ -16,6 +16,9 @@
   </section>
 
   <section id="sobre">
+    <div>
+      <img src="imagens/" alt="emerson-profile">
+    </div>
     <h2>Sobre mim</h2>
     <p>Formado em desenvolvimento de sistemas web com experiência em projetos front-end e back-end. Experiência com PHP, MySQL, Laravel, Bootstrap, dentre outras tecnologias.</p>
   </section>
@@ -72,19 +75,19 @@
     <h2>Tecnologias</h2>
     <div class="tecnologias-container">
       <div class="tecnologia">
-        <img class="tecnologia" src="imagens/bootstrap_icon.png" alt="projeto_autcert"">
+        <img class="tecnologia" src="imagens/icons/bootstrap_icon.png" alt="projeto_autcert"">
       </div>
       <div class="tecnologia">
-        <img class="tecnologia" src="imagens/mysql_icon.png" alt="projeto_autcert">
+        <img class="tecnologia" src="imagens/icons/mysql_icon.png" alt="projeto_autcert">
       </div>
       <div class="tecnologia">
-        <img class="tecnologia" src="imagens/php_icon.png" alt="projeto_autcert">
+        <img class="tecnologia" src="imagens/icons/php_icon.png" alt="projeto_autcert">
       </div>
       <div class="tecnologia">
-        <img class="tecnologia" src="imagens/laravel_icon.png" alt="projeto_autcert">
+        <img class="tecnologia" src="imagens/icons/laravel_icon.png" alt="projeto_autcert">
       </div>
       <div class="tecnologia">
-        <img class="tecnologia" src="imagens/docker_icon.png" alt="projeto_autcert">
+        <img class="tecnologia" src="imagens/icons/docker_icon.png" alt="projeto_autcert">
       </div>
       <!-- Adicione mais projetos conforme necessário -->
     </div>
