@@ -23,6 +23,14 @@
   #hero h1 {
     font-size: 2.5rem;
   }
+
+  #sobre {
+    display: flex;
+  }
+
+  .profile-photo {
+    width: 200px;
+  }
   
   #sobre, #projetos, #contato, #tecnologias {
     padding: 60px 20px;
@@ -67,10 +75,22 @@
     justify-content: space-around;
   }
 
-  img.tecnologia {
-    width: 20;
-    height: auto;
+  @media(max-width: 599px){
+    img.tecnologia {
+      
+      width: 50px;
+      
+    }
   }
+
+  @media(min-width: 600px){
+    img.tecnologia {
+      
+      width: 100px;
+      
+    }
+  }
+
 
   
   footer {
