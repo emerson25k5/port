@@ -16,13 +16,12 @@
   </section>
 
   <section id="sobre">
-  <h2>Sobre mim</h2>
-    <div>
+    <div class="card">
       <img class="profile-photo" src="imagens/emerson.jpg" alt="emerson-profile">
-      <p>Formado em desenvolvimento de sistemas web com experiência em projetos front-end e back-end. Experiência com PHP, MySQL, Laravel, Bootstrap, dentre outras tecnologias.</p>
     </div>
-    
-    
+    <div class="card">
+      <p>Formado em desenvolvimento de sistemas web com experiência em projetos front-end e back-end.</p>
+    </div>
   </section>
 
   <section id="projetos">
