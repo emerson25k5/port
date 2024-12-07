@@ -39,7 +39,7 @@
       <div class="projeto-card">
       <img src="imagens/proj_autcert.png" alt="projeto_autcert" style="width:100%;border-radius:8px;">
         <h3>AutCert</h3>
-        <p>Ferramenta para gestão de eventos e geração de certificados de forma automática</p>
+        <p>Ferramenta para gestão de eventos e geração de certificados</p>
         <a href="https://swupe.com.br/autcert" target="_blank">Ver Projeto</a>
       </div>
       <div class="projeto-card">
