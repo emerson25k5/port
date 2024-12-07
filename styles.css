@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
+  } 
   
   body {
     font-family: 'Poppins', sans-serif;
@@ -13,15 +13,20 @@
   }
   
   #hero {
-    background: #000000;
+    background: url(imagens/back-blue.jpg);
+    background-size: cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
-    box-shadow: #333;
   }
   
   #hero h1 {
     font-size: 2.5rem;
+  }
+
+  div.hero-content {
+    display: flex;
+    justify-content: space-around;
   }
 
   #sobre {
@@ -34,6 +39,7 @@
 
   img.profile-photo {
     width: 220px;
+    border-radius: 10px;
   }
 
   #sobre p {

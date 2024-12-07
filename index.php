@@ -8,20 +8,29 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body> 
+
 
   <section id="hero">
-    <h1>Emerson Santos</h1>
-    <p>Desenvolvedor Web focado em criar experiências digitais modernas.</p>
-  </section>
 
-  <section id="sobre">
-    <div class="card">
-      <img class="profile-photo" src="imagens/emerson.jpg" alt="emerson-profile">
+<!-- PC version -->
+  <div class="hero-content d-none d-lg-block">
+    <img class="profile-photo" src="imagens/emerson.jpg" alt="emerson-profile">
+    <div>
+      <h1>Emerson Santos</h1>
+      <p>Desenvolvedor Web focado em criar experiências digitais modernas.</p>
     </div>
-    <div class="card">
-      <p>Formado em desenvolvimento de sistemas web com experiência em projetos front-end e back-end.</p>
+  </div>
+
+  <!-- mobile version -->
+  <div class="hero-content d-block d-lg-none">
+    <img class="profile-photo" src="imagens/emerson.jpg" alt="emerson-profile">
+    <div>
+      <h1>Emerson Santos</h1>
+      <p>Desenvolvedor Web focado em criar experiências digitais modernas.</p>
     </div>
+  </div>
+
   </section>
 
   <section id="projetos">
