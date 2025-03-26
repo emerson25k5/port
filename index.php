@@ -30,7 +30,7 @@
     </div>
   </div>
 
-  <!-- mobile version -->
+  <!-- mobile version teste -->
   <div class="hero-content d-block d-lg-none">
     <img class="profile-photo" src="imagens/emerson.jpg" alt="emerson-profile">
     <div>
