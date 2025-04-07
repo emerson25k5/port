@@ -16,7 +16,7 @@
         <p>
             <ul class="flex gap-x-3 mt-3 mt-6">
                 <li><a href="https://www.instagram.com/emerson25k5" target="_blank"><img src="./imagens/icons/insta_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
-                <li><a href="https://www.linkedin.com/in/emerson-santos-350541238/" target="_blank"><img src="./imagens/icons/linkedIn_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
+                <li><a href="https://www.linkedin.com/in/emerson-santos-350541238/" target="_blank"><img src="./imagens/icons/linkedin_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
                 <li><a href="https://github.com/emerson25k5" target="_blank"><img src="./imagens/icons/github_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
             </ul>
         </p>

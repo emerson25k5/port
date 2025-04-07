@@ -9,7 +9,7 @@
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="7 days">
     <meta name="theme-color" content="color-slate-800">
-    <link rel="icon" href="imagens/icons/swupe_icon.png" type="image/png">
+    <link rel="icon" href="./imagens/icons/swupe_icon.png" type="image/png">
     <meta property="og:title" content="Emerson DevWeb">
     <title>Emerson DevWeb</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
