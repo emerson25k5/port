@@ -6,17 +6,18 @@
         <h1 class="text-3xl font-bold">Oi, meu nome é Emerson.</h1>
 
         <p class="text-xl leading-6 mt-6">
-            Falando um pouco sobre mim.. Programador especializado em PHP e MySQL. Gosto de aprender novas ferramentas e amo tecnologia.
-            Gosto de passar meu tempo codando e aprendendo Python e outras ferramentas.
+        Sou programador com foco em PHP e MySQL, apaixonado por tecnologia e movido pela curiosidade. Curto mergulhar em novas ferramentas, 
+        explorar linguagens como Python e me manter sempre aprendendo. No meu tempo livre? Tô quase sempre codando, testando coisas novas 
+        e evoluindo minhas skills.
         </p>
 
 
         <!-- Links redes -->
         <p>
-            <ul class="flex gap-x-3 mt-3">
-                <li><a href="https://www.instagram.com/emerson25k5" target="_blank"><img src="./imagens/icons/insta_icon.png" alt="" class="hover:animate-pulse w-8"></a></li>
-                <li><a href="https://www.linkedin.com/in/emerson-santos-350541238/" target="_blank"><img src="./imagens/icons/linkedIn_icon.png" alt="" class="hover:animate-pulse w-8"></a></li>
-                <li><a href="https://github.com/emerson25k5" target="_blank"><img src="./imagens/icons/github_icon.png" alt="" class="hover:animate-pulse w-8"></a></li>
+            <ul class="flex gap-x-3 mt-3 mt-6">
+                <li><a href="https://www.instagram.com/emerson25k5" target="_blank"><img src="./imagens/icons/insta_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
+                <li><a href="https://www.linkedin.com/in/emerson-santos-350541238/" target="_blank"><img src="./imagens/icons/linkedIn_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
+                <li><a href="https://github.com/emerson25k5" target="_blank"><img src="./imagens/icons/github_icon.png" alt="" class="hover:animate-ping w-5"></a></li>
             </ul>
         </p>
 
@@ -24,7 +25,7 @@
 
     <!-- Imagem -->
     <div class="w-2/5 flex items-center -mt-4 justify-center">
-        <img src="imagens/emerson_ghibli.png" alt="Foto emerson" class="w-50 rounded-xl">
+        <img src="imagens/emerson_ghibli.png" alt="Foto emerson" class="w-50 rounded-xl hover:animate-pulse">
     </div>
 
 </section>

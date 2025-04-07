@@ -5,8 +5,20 @@ const DOMAIN = "https://encodify.com.br/";
 function getProjetos() {
     return array(
         [
-            "nome" => "Autcert",
-            "descricao" => "Ferramenta para gestão de eventos e geração de certificados de forma automática. Já conta com mais de 400 certificados emitidos em produção e quase 1000 acessos.",
+            "nome" => "CLI Python",
+            "descricao" => "Ferramenta de web scraping feita em Python. É capaz de percorre disciplinas no Moodle (software educacional), acessar a área da avaliação, 
+            armazenar os valores e retornar os valores em excel. Já está funcional, mas a ideia é incrementar novas funções no projeto.",
+            "stack" => ["Python", "Selenium", "Pandas", "Git"],
+            "status" => "Em desenvolvimento",
+            "ano" => 2025,
+            "path" => "mpy",
+        ],
+        [
+            "nome" => "AutCert",
+            "descricao" => "Plataforma web para gestão de eventos com emissão de certificados, envio de e-mails e controle de templates personalizados.
+            A solução já está em operação, somando mais de 400 certificados gerados, quase 1.000 acessos registrados. O sistema flexível de 
+            gerenciamento de templates de certificados permite personalização conforme o tipo de evento e identidade visual da instituição.",
+            
             "stack" => ["PHP", "HTML", "CSS", "MySQL", "Bootstrap", "Redis", "Docker", "Git"],
             "status" => "Em desenvolvimento",
             "ano" => 2025,
@@ -14,7 +26,8 @@ function getProjetos() {
         ],
         [
             "nome" => "Rodriboy despachante",
-            "descricao" => "Landpage para um despachante, lista de serviços, formulário para contato e integração com API do Google Maps.",
+            "descricao" => "Landing page desenvolvida para um escritório de despachante, com apresentação dos principais serviços oferecidos, formulário de contato funcional, 
+            integração com a API do Google Maps para exibir localização, além de um layout responsivo. Todas as artes visuais e o design da página foram criados por mim, prezando por clareza e identidade visual.",
             "stack" => ["PHP", "HTML", "CSS", "Bootstrap", "Git", "Maps API", "WhatsApp"],
             "status" => "Finalizado",
             "ano" => 2024,
@@ -30,7 +43,8 @@ function getProjetos() {
         ],
         [
             "nome" => "Melb Confecções",
-            "descricao" => "Landpage para a marca que confecciona vestimentas infantis, com foco em vendas em e-commerces.",
+            "descricao" => "Landing page desenvolvida para uma marca de vestuário infantil, com foco em vendas por e-commerce. A página destaca os principais diferenciais da marca, exibe os produtos de forma atrativa e 
+            possui layout responsivo. Todo o design visual e as artes foram criados por mim, priorizando uma identidade lúdica e acolhedora, alinhada ao público-alvo.",
             "stack" => ["PHP", "HTML", "CSS", "Materialize", "Git"],
             "status" => "Finalizado",
             "ano" => 2023,
@@ -50,7 +64,7 @@ function getProjetos() {
             "stack" => ["Laravel", "MySQL", "HTML", "CSS", "Bootstrap", "Git"],
             "status" => "Finalizado",
             "ano" => 2023,
-            "path" => "phoenix",
+            "path" => "estoque",
         ],
     );
 }
@@ -68,7 +82,10 @@ function getColorStack() {
         "Maps API" => "lime",
         "WhatsApp" => "teal",
         "Materialize" => "pink",
-        "Laravel" => "red"
+        "Laravel" => "red",
+        "Python" => "indigo",
+        "Pandas" => "lime",
+        "Selenium" => "gray"
     ];
 }
 

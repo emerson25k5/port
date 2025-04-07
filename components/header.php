@@ -1,7 +1,7 @@
 <header class="mx-auto max-w-screen-lg px-3 py-6 flex items-center flex justify-between items-center">
 
-    <div class="font-bold text-xl">
-        <img src="/imagens/icons/swupe_icon.png" alt="Logo Swupe" class="h-15">
+    <div class="flex items-center gap-x-2 font-mono font-bold text-cyan-500 hover:animate-pulse text-xl">
+        <img src="/imagens/icons/swupe_icon.png" alt="Logo Swupe" class="h-10"><span>Encodify</span>
     </div>
 
     <div class="">
