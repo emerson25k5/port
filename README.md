@@ -63,19 +63,11 @@ Desenvolvido com 💻 e ☕ por **Emerson**.
 
 ## 📸 Screenshot
 
-<<<<<<< HEAD
-> *(Adicione aqui uma imagem do projeto rodando, se quiser deixar mais visual)*
-=======
 > ![image](https://github.com/user-attachments/assets/f08347e6-10a6-4a26-9b88-cecbcca779bf)
 
->>>>>>> 844fa27c0bcc0c2ee8fef69bfb4d35428c08be3c
 
 ---
 
 ## 🏷️ Tags
 
-<<<<<<< HEAD
 `php` `portfólio` `web` `frontend` `modular` `tailwindcss`
-=======
-`php` `portfólio` `web` `frontend` `modular` `tailwindcss`
->>>>>>> 844fa27c0bcc0c2ee8fef69bfb4d35428c08be3c
