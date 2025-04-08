@@ -1,4 +1,4 @@
-# 🌐 Meu Portfólio em PHP
+# 🌐 Meu Portfólio em PHP e Tailwind CSS
 
 Este é um projeto de site pessoal desenvolvido em **PHP**, com estrutura modular e foco em clareza e reutilização de código. O projeto utiliza `require` e `include` para organizar os componentes da página, tornando o código mais limpo e fácil de manter.
 
