@@ -63,7 +63,8 @@ Desenvolvido com 💻 e ☕ por **Emerson**.
 
 ## 📸 Screenshot
 
-> *(Adicione aqui uma imagem do projeto rodando, se quiser deixar mais visual)*
+> ![image](https://github.com/user-attachments/assets/f08347e6-10a6-4a26-9b88-cecbcca779bf)
+
 
 ---
 
