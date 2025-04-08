@@ -27,13 +27,13 @@ Responsável por montar a página principal utilizando os componentes presentes 
 - Página principal com estrutura modular
 - Componentes reutilizáveis (cabeçalho, rodapé, seções etc.)
 - Organização clara com separação de responsabilidades
-- Design responsivo (presumivelmente, com Tailwind CSS)
+- Design responsivo
 
 ## 🧱 Tecnologias Utilizadas
 
 - **PHP**: Backend e renderização de componentes
 - **HTML5**
-- **Tailwind CSS** (presumido pelo uso de classes como `bg-slate-900`, `text-gray-200` etc.)
+- **Tailwind CSS**
 
 ## 📦 Como Executar
 
