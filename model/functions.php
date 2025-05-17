@@ -6,8 +6,10 @@ function getProjetos() {
     return array(
         [
             "nome" => "CLI Python",
-            "descricao" => "Ferramenta de web scraping feita em Python. É capaz de percorre disciplinas no Moodle (software educacional), acessar a área da avaliação, 
-            armazenar os valores e retornar os valores em excel. Já está funcional, mas a ideia é incrementar novas funções no projeto.",
+            "descricao" => "Ferramenta desenvolvida em Python para automatizar processos no sistema acadêmico e no Ambiente Virtual de Aprendizagem (AVA). O script realiza login automático, 
+            navega pelas disciplinas, acessa áreas de avaliações, extrai e armazena dados relevantes — como datas de abertura e encerramento — e gera relatórios organizados em Excel. 
+            Além disso, conta com um módulo adicional responsável por monitorar novos alunos, realizar a criação automática de usuários no AVA e matriculá-los nas disciplinas correspondentes, 
+            integrando o processo de forma totalmente autônoma.",
             "stack" => ["Python", "Selenium", "Pandas", "Git"],
             "status" => "Em desenvolvimento",
             "ano" => 2025,
