@@ -5,7 +5,7 @@ const DOMAIN = "https://encodify.com.br/";
 function getProjetos() {
     return array(
         [
-            "nome" => "CLI Python",
+            "nome" => "Automação CLI Python",
             "descricao" => "Ferramenta desenvolvida em Python para automatizar processos no sistema acadêmico e no Ambiente Virtual de Aprendizagem (AVA). O script realiza login automático, 
             navega pelas disciplinas, acessa áreas de avaliações, extrai e armazena dados relevantes — como datas de abertura e encerramento — e gera relatórios organizados em Excel. 
             Além disso, conta com um módulo adicional responsável por monitorar novos alunos, realizar a criação automática de usuários no AVA e matriculá-los nas disciplinas correspondentes, 
