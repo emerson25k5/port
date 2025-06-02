@@ -1,5 +1,5 @@
 <!-- HERO -->
-<section>
+<section">
 
 <h1 class="flex text-3xl font-bold">Emerson Santos</h1>
 <h2 class="flex text-xm text-gray-500 font-semibold mb-4">Desenvolvedor Web</h2>

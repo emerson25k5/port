@@ -1,7 +1,7 @@
     <!-- Projeto -->
     <section id="projetos" class="space-y-3 py-6">
 
-        <h2 class="text-2xl font-bold gap-x-6 py-6">Meus projetos</h2>
+        <h2 class="text-2xl font-bold gap-x-6 py-6">Meus projetos</h2>        
 
         <?php foreach (getProjetos() as $projeto) : ?>
             <div class="md:flex justify-between rounded-lg p-3 bg-slate-800">
