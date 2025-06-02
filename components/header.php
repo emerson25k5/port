@@ -6,7 +6,7 @@
 
     <div class="">
         <ul class="flex gap-x-3 font-medium text-grey-200 justify-center md:justify-right">
-            <li><a href="#projetos" target="_blank" class="hover:underline">Projetos</a></li>
+            <li><a href="#projetos" class="hover:underline">Projetos</a></li>
             <li><a href="https://github.com/emerson25k5" target="_blank" class="hover:underline">GitHub</a></li>
             <li><a href="https://www.linkedin.com/in/emerson-santos-350541238/" target="_blank" class="hover:underline">LinkedIn</a></li>
         </ul>

@@ -10,11 +10,10 @@
 
             <!-- Imagem -->
             <div class="w-50 flex items-center mt-4">
-                <img src="imagens/emerson_ghibli.png" alt="Foto emerson" class="hover:animate-pulse">
+                <img src="imagens/emerson_ghibli.png" alt="Foto do Emerson Barros dos Santos" class="hover:animate-pulse rounded-xl">
             </div>
 
         </div>
-
         
         <div class="md:w-4/5">
 
@@ -24,7 +23,6 @@
                 explorar linguagens e me manter sempre aprendendo. No meu tempo livre? Tô quase sempre codando, testando coisas novas 
                 e evoluindo minhas skills.
             </p>
-
 
             <!-- Links redes -->
             <p>
